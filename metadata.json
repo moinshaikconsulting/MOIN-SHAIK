@@ -1,0 +1,6 @@
+{
+  "name": "Data Reconciliation Application",
+  "description": "Upload, match, and reconcile two Excel or CSV datasets based on primary keys, with dynamic discrepancy reports and PostgreSQL persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
